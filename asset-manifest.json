@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/repository-portfolio/static/css/main.f18a157d.css",
+    "main.js": "/repository-portfolio/static/js/main.90662724.js",
+    "static/js/787.3503cf78.chunk.js": "/repository-portfolio/static/js/787.3503cf78.chunk.js",
+    "static/media/your-pattern-image.png": "/repository-portfolio/static/media/your-pattern-image.f0618ede60b534653cd2.png",
+    "index.html": "/repository-portfolio/index.html",
+    "main.f18a157d.css.map": "/repository-portfolio/static/css/main.f18a157d.css.map",
+    "main.90662724.js.map": "/repository-portfolio/static/js/main.90662724.js.map",
+    "787.3503cf78.chunk.js.map": "/repository-portfolio/static/js/787.3503cf78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f18a157d.css",
+    "static/js/main.90662724.js"
+  ]
+}
